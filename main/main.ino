@@ -8,8 +8,8 @@
 Servo myservo[8];
 char servo_pin[8] = {0,2,10,4,13,12,14,16};
 
-const char* ssid = "fucktencent";
-const char* passwd = "qweasdzxc@";
+const char* ssid = "..........";
+const char* passwd = "..........";
 
 WiFiServer server(80);
 /////////////////////////////////////////
